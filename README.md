@@ -1,4 +1,4 @@
-# React-Calorie-Counter 🥗🔥  
+# React-Calorie-Counter 
 **Aplicación construida en React y TypeScript**
 
 React-Calorie-Counter es una app web para registrar, gestionar y visualizar el consumo y gasto calórico diario. Está diseñada con una arquitectura moderna usando `useReducer`, Hooks, persistencia local y una interfaz visual.
